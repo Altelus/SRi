@@ -10,8 +10,7 @@
  - Master client spawns pickups at random locations in set intervals
  - Lobby system to create/join rooms, assign name
  - In-game chat
- - Destructible, idle monsters with health bars
- 
+ - Destructible, idle monsters with health bars  
  **Future changes**
  - Networked AI for monsters
  - Expanded map
