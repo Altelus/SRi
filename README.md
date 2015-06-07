@@ -1,7 +1,7 @@
 # SRi (working title)
 2D Top down cooperative shooter built using Unity Engine, Photon, NGUI, C#, PHP, MySQL
 
-[v0.51](http://52.0.19.245/sriv1.html) (exe)(latest)
+[v0.51](https://github.com/Altelus/SRi/releases/tag/v0.51) (exe)(latest)  
 [v0.40](http://52.0.19.245/sriv1.html) (Web Player)(No monsters and login functionality)
 ###Info & Features
 
